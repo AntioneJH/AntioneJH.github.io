@@ -1,0 +1,8 @@
+.narrow{
+    width: 250px;
+    background-color: lightgreen;
+    display: inline-block;
+}
+.special-image{
+    width: 504px;
+}
