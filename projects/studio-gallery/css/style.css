@@ -25,7 +25,5 @@ img{
 #frametext{
     background-color: wheat;
     border:10px solid #641919;
-    width: 100px;
-    padding: 25px;
-    text-align: center;
+    width: 150px;
 }
