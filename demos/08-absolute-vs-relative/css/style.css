@@ -1,0 +1,14 @@
+.absolute-image{
+    width: 200px;
+}
+.relative-image{
+    width: 100%;
+}
+.frame{
+    border: solid black;
+    width: 50%;
+}
+div.frame img{
+    width: 100%;
+    display: block;
+}
