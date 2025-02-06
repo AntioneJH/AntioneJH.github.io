@@ -1,0 +1,14 @@
+.frame-1 {
+    border: outset brown; 
+    margin: 50px 10px 8px;
+    box-shadow: -2px 2px 3px brown;
+}
+.frame-1 div {
+    padding: 10px;
+    background-color: brown;
+    box-shadow: inset -1px 1px 2px grey;
+}
+#frame-1 img {
+    width: 80px;
+    display: block;
+}
